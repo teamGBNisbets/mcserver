@@ -5,6 +5,7 @@ groups:
     groups:
     - builder
     - default
+    - headdev
     meta:
       prefix: '&e[&bOwner&e]&2'
       priority: '900'
@@ -16,6 +17,8 @@ groups:
     - essentials.sethome
     - essentials.spawn
     - essentials.pm
+    - essentials.msg
+    - essentials.reply
     groups: []
     meta:
       prefix: '&e[&bPlayer&e]&2'
@@ -35,10 +38,26 @@ groups:
     meta:
       prefix: '&e[&bDeveloper&e]&2'
       priority: '400'
+  headdev:
+    permissions:
+    - bPermissions.admin
+    -essential.op
+    groups:
+    - default
+    - builder
+    meta:
+      prefix: '&e[&bHeadDeveloper&e]&2'
+      priority: '400'
   builder:
     permissions:
     - essentials.gamemode
     - essentials.give
+    - worldedit.clipboard.copy
+    - worldedit.clipboard.paste
+    - worldedit.generation.pyramid
+    - worldedit.region.replace
+    - worldedit.tool.tree
+    - worldedit.fill
     groups:
     - default
     meta:
