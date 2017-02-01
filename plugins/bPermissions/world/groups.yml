@@ -25,6 +25,10 @@ groups:
       priority: '100'
   mod:
     permissions: []
+    - essentials.tp
+    - essentials.kick
+    - essentials.mute
+    - essentials.fly
     groups:
     - default
     meta:
@@ -41,7 +45,7 @@ groups:
   headdev:
     permissions:
     - bPermissions.admin
-    -essential.op
+    - essential.op
     groups:
     - default
     - builder
