@@ -1,0 +1,21 @@
+users:
+  979e7dec-10c7-4fed-a082-15a16ece6a3d:
+    username: NoodlePai
+    permissions: []
+    groups:
+    - mod
+  4c48eb52-7b0c-4f52-8457-763b394f6afd:
+    username: Feryx
+    permissions: []
+    groups:
+    - builder
+  475e0a2e-0b88-41e3-af97-5af841d9f68e:
+    username: muledog17
+    permissions: []
+    groups:
+    - owner
+  4bd62c2e-56e3-4ff4-843f-4af51edb8339:
+    username: teamGBNisbets
+    permissions: []
+    groups:
+    - dev

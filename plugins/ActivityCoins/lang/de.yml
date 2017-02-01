@@ -1,0 +1,6 @@
+prefix: §8[§6ActivityCoins§8] §7
+noPermissions: §4Dir fehlen die Rechte, um dies zu tun.
+currentActivity: 'Aktivität: %s'
+currentActivityFromPlayer: '%s §8- §7%s'
+remainingTime: 'Auszahlung in: %.2f Minuten'
+payout: 'Auszahlung: %.2f'

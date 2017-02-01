@@ -1,0 +1,30 @@
+afk: false
+timestamps:
+  lastteleport: 1485983740636
+  logout: 1485988544547
+  login: 1485988552352
+lastlocation:
+  world: world
+  x: -1.4913568363251013
+  y: 64.0
+  z: -1.2578992324399971
+  yaw: -119.999146
+  pitch: 16.950102
+homes:
+  home:
+    world: world
+    x: 1.3404130349861436
+    y: 63.0
+    z: -10.397507957327885
+    yaw: -172.34914
+    pitch: 75.45009
+money: '45.0'
+logoutlocation:
+  world: world
+  x: -8.071034949674317
+  y: 70.68292825561865
+  z: -17.469865943479398
+  yaw: -96.5918
+  pitch: 13.349805
+lastAccountName: muledog17
+ipAddress: 73.160.79.246

@@ -1,0 +1,28 @@
+lastAccountName: Ucantseeme9
+timestamps:
+  login: 1485987567187
+  logout: 1485989446348
+ipAddress: 73.194.77.89
+lastlocation:
+  world: world
+  x: -31.5
+  y: 67.0
+  z: -4.5
+  yaw: 0.0
+  pitch: 0.0
+money: '306.0'
+homes:
+  home:
+    world: world
+    x: -14.033482316346905
+    y: 64.0
+    z: -1.4733157543824107
+    yaw: -102.89209
+    pitch: 20.399942
+logoutlocation:
+  world: world
+  x: -28.450331592195337
+  y: 66.0
+  z: -41.778715866406586
+  yaw: -314.54785
+  pitch: 11.250022

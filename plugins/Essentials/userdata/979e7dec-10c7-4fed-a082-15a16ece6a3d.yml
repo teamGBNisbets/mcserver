@@ -1,0 +1,21 @@
+lastAccountName: NoodlePai
+timestamps:
+  login: 1485986729315
+  lastteleport: 1485987274553
+  logout: 1485988351950
+ipAddress: 80.43.44.66
+lastlocation:
+  world: world
+  x: -38.164833827416054
+  y: 68.0
+  z: -18.895142458580324
+  yaw: 114.71912
+  pitch: 14.359293
+money: '197.0'
+logoutlocation:
+  world: world
+  x: -108.49154935504606
+  y: 183.0
+  z: 23.41364846426669
+  yaw: 68.48462
+  pitch: 88.2869
