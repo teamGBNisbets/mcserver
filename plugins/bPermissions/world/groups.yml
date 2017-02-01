@@ -11,6 +11,7 @@ groups:
       priority: '900'
   default:
     permissions:
+    - essentials.help
     - activitycoins.own
     - essentials.balance
     - essentials.home
