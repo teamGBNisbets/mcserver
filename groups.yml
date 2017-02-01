@@ -37,7 +37,6 @@ groups:
       priority: '400'
   builder:
     permissions:
-    - essentials.gamemode
     - essentials.give
     groups:
     - default
