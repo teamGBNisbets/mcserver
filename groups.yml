@@ -1,0 +1,46 @@
+default: default
+groups:
+  owner:
+    permissions: []
+    groups:
+    - builder
+    - default
+    meta:
+      prefix: '&e[&bOwner&e]&2'
+      priority: '900'
+  default:
+    permissions:
+    - activitycoins.own
+    - essentials.balance
+    - essentials.home
+    - essentials.sethome
+    - essentials.spawn
+    - essentials.pm
+    groups: []
+    meta:
+      prefix: '&e[&bPlayer&e]&2'
+      priority: '100'
+  mod:
+    permissions: []
+    groups:
+    - default
+    meta:
+      prefix: '&e[&bModerator&e]&2'
+      priority: '300'
+  dev:
+    permissions:
+    - bPermissions.admin
+    groups:
+    - default
+    meta:
+      prefix: '&e[&bDeveloper&e]&2'
+      priority: '400'
+  builder:
+    permissions:
+    - essentials.gamemode
+    - essentials.give
+    groups:
+    - default
+    meta:
+      prefix: '&e[&bBuilder&e]&2'
+      priority: '200'
