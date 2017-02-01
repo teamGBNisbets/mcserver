@@ -28,6 +28,7 @@ groups:
     - essentials.tp
     - essentials.kick
     - essentials.mute
+    - essentials.fly
     groups:
     - default
     meta:
