@@ -66,4 +66,4 @@ groups:
     - default
     meta:
       prefix: '&e[&bBuilder&e]&2'
-      priority: '200'
+      priority: '300'
