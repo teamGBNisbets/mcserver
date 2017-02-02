@@ -12,6 +12,8 @@ groups:
   default:
     permissions:
     - activitycoins.own
+    - essentials.afk
+    - essentials.pay
     - essentials.balance
     - essentials.home
     - essentials.sethome
@@ -45,7 +47,8 @@ groups:
   headdev:
     permissions:
     - bPermissions.admin
-    - essential.op
+    - minecraft.command.op
+    - minecraft.command.weather
     groups:
     - default
     - builder
